@@ -1,0 +1,23 @@
+Company Handbook — Remote Work Policy
+
+total empolyees=1000. expected 2500
+
+Employees may work remotely up to 4 days per week. All remote employees
+must be reachable during core hours, 10am to 3pm in their local timezone.
+
+Equipment: The company provides a laptop and a one-time $300 stipend for
+home office setup (desk, chair, monitor). Requests go through the IT
+portal and are typically approved within 3 business days.
+
+Expense reimbursement: Internet and phone bills are reimbursed up to $50
+per month with a submitted receipt. Reimbursements are processed on the
+last Friday of each month.
+
+Time off: Employees accrue 15 vacation days per year, plus 10 public
+holidays. Unused vacation days roll over up to a maximum of 5 days into
+the following year. Sick leave is separate and uncapped, subject to
+manager approval for absences longer than 3 consecutive days.
+
+Onboarding: New hires complete a 2-week onboarding program covering
+company tools, security training, and a shadowing period with their
+team lead. IT accounts are provisioned before the employee's first day.
